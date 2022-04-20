@@ -1,5 +1,5 @@
 # Git-command-line-tutorial
-A tutorial on how to perform various operations on git, using command line terminal instead of GUI.
+A tutorial on how to perform various operations on git, using command line terminal instead of GUI. Here, we are considering that git is already installed and configured on your system as well as on github. If you need help, refer [here](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html).
 
 There could be different scenarios where we can use git. We will handle them separately and list the commands here. 
 
